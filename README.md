@@ -6,6 +6,8 @@ Git es un software de control de versiones
 
 ## ¿Qué es github?
 
+Github es un servicio web que aloja código y trabaja con git.
+
 ## git init
 
 ## git clone
