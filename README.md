@@ -30,6 +30,13 @@ Crea un hito o punto de control con todos los cambios agregados desde el último
 
 ### good commits messages
 
+* Captitalizados
+* En inglés
+* En infinitivo
+* En presente simple
+
+ej: "Add goof commits messages tips"
+
 ## git log
 
 ## git branch
