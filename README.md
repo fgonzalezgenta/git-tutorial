@@ -39,6 +39,8 @@ ej: "Add goof commits messages tips"
 
 ## git log
 
+Muestra el historial de commits del repositorio y branch actuales, el hash de cada uno, así como fecha y hora, autor y mensaje.
+
 ## git branch
 
 ## git push
