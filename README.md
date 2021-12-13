@@ -41,7 +41,9 @@ ej: "Add goof commits messages tips"
 
 Muestra el historial de commits del repositorio y branch actuales, el hash de cada uno, así como fecha y hora, autor y mensaje.
 
-## git branch
+## git checkout
+
+Permite desplazarse entre ramas git checkout nombre-de-la-rama así como crear nuevas ramas git checkout -b "nombre-de-la-rama"
 
 ## git push
 
