@@ -47,6 +47,8 @@ Permite desplazarse entre ramas git checkout nombre-de-la-rama así como crear n
 
 ## git push
 
+Publica los commits locales en un repositorio remoto (ej github)
+
 ## git pull
 
 ## git merge
