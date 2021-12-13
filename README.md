@@ -51,6 +51,8 @@ Publica los commits locales en un repositorio remoto (ej github)
 
 ## git pull
 
+Actualiza el repositorio local con los commits publicados en el repositorio remoto y que sean faltantes.
+
 ## git merge
 
 ## .gitignore
