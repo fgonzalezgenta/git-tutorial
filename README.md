@@ -59,6 +59,12 @@ Permite mezclar o unir la rama de trabajo actual con una especificada.
 
 ## .gitignore
 
+Es un archivo que permite especificar todos aquellos archivos y directorios que no son necesarios seguir, agregar, commitear ni pushear.
+
+Ej: 
+*.pyc
+tmp
+
 ## Tutorial interactivo
 
 [learngitbranching](https://learngitbranching.js.org/)
