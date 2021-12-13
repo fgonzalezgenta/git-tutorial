@@ -22,6 +22,8 @@ Describe el estado del repositorio actual, cambios a agregar, cambios agregados 
 
 ## git add
 
+Agrega los cambios realizados en archivos/directorios del proyecto para formar parte del potencial próximo commit
+
 ## git commit
 
 ### good commits messages
