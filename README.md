@@ -2,7 +2,7 @@
 
 ## ¿Qué es git?
 
-Git es un software de control de versiones
+Git es un software de control de versiones. De VERSIONES
 
 ## ¿Qué es github?
 
