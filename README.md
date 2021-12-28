@@ -10,7 +10,7 @@ Github es un servicio web que aloja código y trabaja con git.
 
 ## git init
 
-Este comando permite inicial el seguimiento de git en un repositorio determinado
+Este comando permite inicial el seguimiento de git en un repositorio determinadoSSS2
 
 ## git clone
 
@@ -20,7 +20,7 @@ Clona un repositorio remoto (que vive por ej github) de manera local
 
 Describe el estado del repositorio actual, cambios a agregar, cambios agregados a commitear y commits a pushear si los hubiere. Además especifica información como la branch actual.
 
-## git add
+## git add2
 
 Agrega los cambios realizados en archivos/directorios del proyecto para formar parte del potencial próximo commit
 
