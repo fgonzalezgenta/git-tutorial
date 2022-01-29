@@ -55,7 +55,7 @@ Actualiza el repositorio local con los commits publicados en el repositorio remo
 
 ## git merge
 
-Permite mezclar o unir la rama de trabajo actual con una especificada.
+Permite mezclar o unir la rama de trabajo actual con una especificada. Cambio directo desde github
 
 ## .gitignore
 
