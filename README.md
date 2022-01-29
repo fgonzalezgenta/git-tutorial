@@ -10,7 +10,7 @@ Github es un servicio web que aloja código y trabaja con git.
 
 ## git init
 
-Este comando permite inicial el seguimiento de git en un repositorio determinadoSSS23
+Este comando permite inicial el seguimiento de git en un repositorio determinado. Agregado 29/01/2022
 
 ## git clone
 
