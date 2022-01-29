@@ -14,7 +14,7 @@ Este comando permite inicial el seguimiento de git en un repositorio determinado
 
 ## git clone
 
-Clona un repositorio remoto (que vive por ej github) de manera local
+Clona un repositorio remoto (que vive por ej github) de manera local. 29/01/2022
 
 ## git status
 
